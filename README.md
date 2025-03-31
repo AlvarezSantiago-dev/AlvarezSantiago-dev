@@ -52,46 +52,78 @@ Mi objetivo es transformar ideas creativas en soluciones funcionales y visualmen
 # Projects ⚙️
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
-  
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NFT Portal</h3>
-        <br />
-        <a target="_blank" href="http://nftportalbyrahul.netlify.app">
-            <img src="images/nftportal.jpg" width="100%" alt="NFT App"/>
+      <h3 align="center">Todo App</h3>
+      <br />
+      <a target="_blank" href="https://todo-app-nine-mauve.vercel.app/">
+        <img src="https://i.imgur.com/pgYW0h3.png" width="100%" alt="Todo-App"/>
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="https://github.com/AlvarezSantiago-dev/todo-app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://todo-app-nine-mauve.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-          <br>
-  <a href="https://github.com/rahulkarda/NFT-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A Smart contract in Solidity and a Web3 app to Mint your own NFT collection. Frontend made with React to let users connect their wallets and interact with the NFTs.</p>
+      <p><strong>Vite, JavaScript, CSS</strong> - Todo App: Esta es una aplicación básica de lista de tareas (Todo App) desarrollada con React. Permite a los usuarios agregar, marcar como completadas y eliminar tareas.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Wave Portal</h3>
-        <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/waveportal.jpg" width="100%"  alt="Wave Portal"/>
+      <h3 align="center">Poke App</h3>
+      <br />
+      <a target="_blank" href="https://pokemon-ap.vercel.app/">
+        <img src="https://i.imgur.com/DwTFU4L.png" width="100%"  alt="Wave Portal"/>
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="https://github.com/AlvarezSantiago-dev/pokemon-ap" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a> 
+        <a href="https://pokemon-ap.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
         </a>
-        <br />
-        <p align="center">
-   <br>
-  <a href="https://github.com/rahulkarda/Wave-Portal" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-  <a href="https://waveatrahul.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
-        <p><strong>Javascript, React, Sass & Solidity</strong> - Wave Portal : A Web3 App with Solidity + Ethereum Smart Contracts. Send me Hello through Blockchain!!.</p>
+      <p><strong>Vite, JavaScript, CSS</strong> - Poke App: Poke-App es una aplicación web desarrollada con React y Vite, diseñada para explorar y visualizar información sobre Pokémon. Utiliza React Router DOM para la navegación y proporciona una experiencia interactiva para los usuarios.</p>
     </td>
   </tr>
-  
-  
-  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">WooCommerce - Proyecto Freelance</h3>
+      <br />
+      <a target="_blank" href="https://centrocristianovidatucasa.com.ar/">
+        <img src="https://i.imgur.com/nNXC1MM.png" width="100%" alt="WooCommerce"/>
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="https://centrocristianovidatucasa.com.ar/" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>WordPress, JavaScript, CSS</strong> - WooCommerce: Proyecto freelance donde trabajé en la parte frontend, utilizando WordPress y WooCommerce para desarrollar una tienda online. El proyecto está en producción y mi labor fue transformar el diseño en código.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Ecommerce - Proyecto Personal</h3>
+      <br />
+      <a target="_blank" href="#">
+        <img src="https://i.imgur.com/3AsrR5j.png" width="100%" alt="Ecommerce"/>
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Vite, JavaScript, CSS, Firebase</strong> - Ecommerce: Proyecto personal en desarrollo. Se trata de una tienda online de productos digitales, utilizando Firebase como base de datos y Vite como herramienta de desarrollo.</p>
+    </td>
+  </tr>
 </table>
+
