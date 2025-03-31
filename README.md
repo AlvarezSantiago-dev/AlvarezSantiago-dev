@@ -22,7 +22,7 @@
 
  ## About Me
   
-Soy un Desarrollador Front-End Junior con una gran pasión por crear experiencias web modernas y atractivas. Aunque estoy iniciando mi camino en el mundo del desarrollo web, estoy altamente motivado para aprender, crecer y perfeccionar mis habilidades cada día.
+Soy un Desarrollador Front-End Trainee/Junior con una gran pasión por crear experiencias web modernas y atractivas. Aunque estoy iniciando mi camino en el mundo del desarrollo web, estoy altamente motivado para aprender, crecer y perfeccionar mis habilidades cada día.
 
 Mi objetivo es transformar ideas creativas en soluciones funcionales y visualmente atractivas, contribuyendo a proyectos que generen un impacto. Estoy emocionado de aportar entusiasmo, dedicación y perspectivas frescas mientras continúo desarrollando mi experiencia en el área.
 
